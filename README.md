@@ -1,8 +1,12 @@
 # License Plate Recognition using Neural Networks
 
-## Department of Systems and Automation Engineering
-## Higher Technical School of Engineering
-## University of Seville
+Trabajo de Fin de Grado. José Enrique Maese Álvarez
+
+Dpto. de Ingeniería de Sistemas y Automatización
+
+Escuela Técnica Superior de Ingeniería
+
+Universidad de Sevilla
 
 ### Objective
 
