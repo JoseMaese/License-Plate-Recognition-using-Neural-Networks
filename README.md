@@ -8,7 +8,7 @@ Dpto. de Ingeniería de Sistemas y Automatización
 
 ### Objective
 
-The primary goal of this project is the extraction of characters from vehicle license plates using neural networks. The study involves exploring different neural network models, implementing the solution in Python, and applying computer vision techniques learned during the course.
+The primary goal of this project is the extraction of characters from vehicle license plates using neural networks. The study involves exploring different neural network models, implementing the solution in Python, and applying computer vision techniques.
 
 ### Considerations
 
@@ -18,7 +18,7 @@ The primary goal of this project is the extraction of characters from vehicle li
   
 ### Image Preprocessing
 
-#### Creation of the Database
+#### Creation of the dataset
 
 - 125 images
 - 875 characters
