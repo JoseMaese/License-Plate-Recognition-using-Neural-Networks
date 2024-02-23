@@ -105,7 +105,7 @@ The primary goal of this project is the extraction of characters from vehicle li
 
 - Network structure
 - Learning rate
-- Database split
+- Dataset split (70% training - 30% validation)
 - Batch training
 - Epochs
 
